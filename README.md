@@ -3,6 +3,8 @@ Module for Tapestry 5.2 that brings capability of adding ResourceTransformers as
 Just add uk.org.cezary.t52transformers.T52TransformersModule as a submodule to your AppModule (or equivalent) 
 using @SubModule annotation.
 
+You can use it with t5conduit module (https://github.com/cezary-biernacki/t5conduit) that brings 
+LessCSS and CoffeeScript integration.
 
 ---
 Written by Cezary Biernacki.
