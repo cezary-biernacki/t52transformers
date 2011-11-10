@@ -1,6 +1,6 @@
 Module for Tapestry 5.2 that brings capability of adding ResourceTransformers as in Tapestry 5.3
 
-Just add uk.org.cezary.t52transformers.T5T2TransformersModule as a submodule to your AppModule (or equivalent) 
+Just add uk.org.cezary.t52transformers.T52TransformersModule as a submodule to your AppModule (or equivalent) 
 using @SubModule annotation.
 
 
