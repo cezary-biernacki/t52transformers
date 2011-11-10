@@ -44,7 +44,7 @@ import uk.org.cezary.t52transformers.internal.StreamableResourceSourceImpl;
  */
 
 @SubModule( { TapestryModule.class } )
-public class T5T2TransformersModule {
+public class T52TransformersModule {
     
     public static void bind(ServiceBinder binder) {
         binder.bind(ContentTypeAnalyzer.class, ContentTypeAnalyzerImpl.class);
